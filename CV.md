@@ -13,9 +13,11 @@
 ## Educational history: 
 
 - current: apprenticeship with the City of Munich as an IT specialist with a focus on Systems integration 
-- 9/2021: Completed 1st Bavarian teaching state exam in Augsburg (Grade 2.72) 
-- 6/2015: Completed German A levels in Wertingen (Grade 2.4) 
+- 9/2021: Completed 1st Bavarian teaching state exam @ [Universität Augsburg](https://www.uni-augsburg.de/de/) (Grade 2.72) 
+- 6/2015: Completed German A levels @ [Gymnasium Wertingen](https://www.gymnasium-wertingen.de/) (Grade 2.4) 
 
 ## Further qualifications: 
 
-- 
+- languages:
+  -   
+
