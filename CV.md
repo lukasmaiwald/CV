@@ -12,6 +12,7 @@
 
 ## Educational history: 
 
+- current: apprenticeship with the City of Munich as an IT specialist with a focus on Systems integration 
 - 9/2021: Completed 1st Bavarian teaching state exam in Augsburg (Grade 2.72) 
 - 6/2015: Completed German A levels in Wertingen (Grade 2.4) 
 
