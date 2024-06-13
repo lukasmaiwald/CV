@@ -28,3 +28,12 @@
   -   German @ native speaker level of language proficiency
 - German Drivers license since 10/2013 @ Class B level  
 
+## Leisure time activities:
+
+- Miniature Wargaming (Warhammer 40k & AoS)
+- Building and painting 28mm scale miniatures
+- Literature (SciFi, Horror, Historical, Fantasy) in various forms of media (books, audiobooks, movies, series, videogames, etc.)
+- Bouldering 
+- Running & Mountain Biking
+- CLimbing & Hiking (occasionally)
+- Learning & Expanding my knowledge
