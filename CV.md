@@ -14,7 +14,7 @@
 - 9/2021 - 5/2022 as Trainee teacher @ [Primary and Secondary school in Höchstädt](https://gsms-hoechstaedt.de/)
 - 6/2021 - 8/2021 as Team teacher @ [Secondary school in Aichach](https://www.mittelschule-aichach.de/)
 - 5/2017 - 1/2021 as Tutor @ [Tutoring institute Studentenring Augsburg](https://augsburg.studentenring.de/)
-- 7/2015 - 8/2015 as Temporary aid for order picking and warehouse logistics  @ [Buttinette GmbH](https://basteln-de.buttinette.com/shop/service/unsere-filiale#)
+- 7/2015 - 8/2015 as Temp aid for order picking and warehouse logistics  @ [Buttinette GmbH](https://basteln-de.buttinette.com/shop/service/unsere-filiale#)
 
 ## Educational history: 
 
