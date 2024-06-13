@@ -40,7 +40,7 @@
 
 ## Leisure time activities:
 
-- Miniature Wargaming (Warhammer 40k & AoS) [Always looking for more players in the Munich area!] (https://www.facebook.com/WarhammerMuenchenPasing/?locale=de_DE)
+- Miniature Wargaming (Warhammer 40k & AoS) [Always looking for more players in the Munich area!](https://www.facebook.com/WarhammerMuenchenPasing/?locale=de_DE)
 - Building and painting 28mm scale miniatures
 - Music (concerts, festival, etc.) 
 - Literature (SciFi, Horror, Historical, Fantasy) in various forms of media (books, audiobooks, movies, series, videogames, etc.)
