@@ -19,5 +19,7 @@
 ## Further qualifications: 
 
 - languages:
-  -   
+  -   English @ roughly C2-C1 level of language proficiency
+  -   German @ native speaker level of language proficiency
+- German Drivers license since 10/2013 @ Class B level  
 
