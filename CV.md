@@ -6,6 +6,10 @@
 - Birthdate: 10/1995
 - Current residency: Munich
 
+## Socials: 
+
+- Discord: ravenor95 / #2669
+
 ## Job history: 
 
 - current: apprenticeship as an IT specialist with a focus on Systems integration @ [City of Munich](https://www.muenchen.de/)
@@ -36,11 +40,11 @@
 
 ## Leisure time activities:
 
-- Miniature Wargaming (Warhammer 40k & AoS)
+- Miniature Wargaming (Warhammer 40k & AoS) [Always looking for more players in the Munich area!] (https://www.facebook.com/WarhammerMuenchenPasing/?locale=de_DE)
 - Building and painting 28mm scale miniatures
 - Music (concerts, festival, etc.) 
 - Literature (SciFi, Horror, Historical, Fantasy) in various forms of media (books, audiobooks, movies, series, videogames, etc.)
 - Bouldering
 - Running & Mountain Biking
-- CLimbing & Hiking (occasionally)
+- Climbing & Hiking (occasionally)
 - Learning & Expanding my knowledge
