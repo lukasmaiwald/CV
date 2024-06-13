@@ -1,6 +1,6 @@
 ### CV 
 
-## Some facts: 
+## Biography: 
 
 - Nationality: German
 - Birthdate: 10/1995
