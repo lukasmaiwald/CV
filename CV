@@ -1,0 +1,39 @@
+<!-- WIP, will be filled out at a later time! -->
+
+
+<!DOCTYPE html>
+<html lang="de">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Lebenslauf von [Ihr Name]</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>[Ihr Name]</h1>
+        <p>[Ihre Position oder Ihr Beruf]</p>
+    </header>
+    <main>
+        <section id="contact">
+            <h2>Kontakt</h2>
+            <p>Email: <a href="mailto:email@example.com">email@example.com</a></p>
+            <p>Telefon: [Ihre Telefonnummer]</p>
+        </section>
+        <section id="experience">
+            <h2>Berufserfahrung</h2>
+            <ul>
+                <li>[Jobtitel] bei [Firmenname], [Zeitraum]</li>
+                <!-- Weitere Positionen -->
+            </ul>
+        </section>
+        <section id="education">
+            <h2>Ausbildung</h2>
+            <ul>
+                <li>[Abschluss] von [Institution], [Jahr]</li>
+                <!-- Weitere Abschlüsse -->
+            </ul>
+        </section>
+    </main>
+</body>
+</html>
